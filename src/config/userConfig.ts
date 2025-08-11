@@ -517,7 +517,7 @@ export const userConfig = {
 
     // SEO Configuration
     seo: {
-        title: 'Abdelrahman Saleh - Software Developer',
+        title: 'Ayşenur Arslan - Software Developer',
         description: 'Software Developer based in Egypt specializing in React, Node.js, and modern web technologies',
         keywords: ['Software Developer', 'React', 'Node.js', 'Web Development', 'Egypt'],
     },
