@@ -10,11 +10,11 @@ import foodies from './projects/foodies.json';
 export const userConfig = {
     // Personal Information
     name: 'Ayşenur Arslan',
-    role: 'Software Developer - DA',
+    role: 'Software Developer - Data Engineer',
     location: 'Konya, Turkey',
     email: 'arslan.nur.ayse@gmail.com',
     website: 'aabdoo23',
-    roleFocus: 'Backend Development using .NET, C#, Entity Framework, SQL Server, and Bootstrap. Can also work with Angular, React, and Node.js.',
+    roleFocus: 'Data and AI Engineer',
     age: 22,    
 
     // Social Links
@@ -50,7 +50,7 @@ export const userConfig = {
             institution: "Konya Technical University",
             location: "Konya, Türkiye",
             year: "2021-2025",
-            description: "Relevant coursework: Data Structures, Algorithms, Database Management, Software Engineering, Biomedical Informatics, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Computer Networks, Operating Systems, Computer Architecture, Computer Organization, Computer Security, Computer Graphics, Computer Systems, Computer Networks, Operating Systems, Computer Architecture, Computer Organization, Computer Security, Computer Graphics, Computer Systems",
+            description: "Relevant coursework: Data Structures, Algorithms, Database Management, Software Engineering, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Computer Networks, Operating Systems, Computer Architecture, Operating Systems, Computer Organization, Computer Security, Computer Graphics, Computer Systems",
             images: [
                 {
                     url: "https://lh3.googleusercontent.com/p/AF1QipOBPw95oHrcW5BDX2LbbbxaVoz8kBTw7nfjMZzS=s1360-w1360-h1020-rw",
@@ -105,6 +105,8 @@ export const userConfig = {
         "MsSQL",
         "PostgreSQL",
         "Docker",
+        "PyTorch",
+        
     ],
 
     extraCurricularRoles: [
@@ -518,8 +520,8 @@ export const userConfig = {
     // SEO Configuration
     seo: {
         title: 'Ayşenur Arslan - Software Developer',
-        description: 'Software Developer based in Egypt specializing in React, Node.js, and modern web technologies',
-        keywords: ['Software Developer', 'React', 'Node.js', 'Web Development', 'Egypt'],
+        description: '',
+        keywords: ['Data Engineer', 'AI Engineer', 'Python',],
     },
 
     // Theme Configuration
