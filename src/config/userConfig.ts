@@ -9,24 +9,24 @@ import portfolio from './projects/portfolio.json';
 import foodies from './projects/foodies.json';
 export const userConfig = {
     // Personal Information
-    name: 'Abdelrahman Saleh',
-    role: 'Software Developer - Backend Developer',
-    location: 'Giza, Egypt',
-    email: 'aabdoo2304@gmail.com',
+    name: 'Ayşenur Arslan',
+    role: 'Software Developer - DA',
+    location: 'Konya, Turkey',
+    email: 'arslan.nur.ayse@gmail.com',
     website: 'aabdoo23',
     roleFocus: 'Backend Development using .NET, C#, Entity Framework, SQL Server, and Bootstrap. Can also work with Angular, React, and Node.js.',
-    age: 23,    
+    age: 22,    
 
     // Social Links
     social: {
-        github: 'https://github.com/aabdoo23',
-        linkedin: 'https://www.linkedin.com/in/aabdoo23/', // Add your LinkedIn URL
+        github: 'https://github.com/aysenurarslann',
+        linkedin: 'https://www.linkedin.com/in/ay%C5%9Fenur-arslan/', // Add your LinkedIn URL
     },
 
     // Contact Information
     contact: {
-        email: 'aabdoo2304@gmail.com',
-        phone: '+201007952039', // Add your phone number
+        email: 'arslan.nur.ayse@gmail.com',
+        phone: '+90 541 766 75 27', // Add your phone number
         calendly: 'https://calendly.com/aabdoo2304', // Add your Calendly URL
     },
 
@@ -39,23 +39,23 @@ export const userConfig = {
     // Resume Configuration
     resume: {
         url: 'https://drive.google.com/file/d/1ZyaeXLpdOtPUygFCu55yYCQSEdW3K4pm/view',
-        localPath: '/resume.pdf',
+        localPath: '/Aysenur_ARSLAN_Software_Engineer_CV_en_ (1).pdf',
     },
 
     // Education Background
     education: [
         {
-            degree: "Bachelor of Computer Science",
-            major: "Biomedical Informatics",
-            institution: "Nile University",
-            location: "Giza, Egypt",
+            degree: "Bachelor of Computer Engineer",
+            major: "",
+            institution: "Konya Technical University",
+            location: "Konya, Türkiye",
             year: "2021-2025",
             description: "Relevant coursework: Data Structures, Algorithms, Database Management, Software Engineering, Biomedical Informatics, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Computer Networks, Operating Systems, Computer Architecture, Computer Organization, Computer Security, Computer Graphics, Computer Systems, Computer Networks, Operating Systems, Computer Architecture, Computer Organization, Computer Security, Computer Graphics, Computer Systems",
             images: [
                 {
-                    url: "https://www.nu.edu.eg/sites/default/files/2024-06/whatsapp_image_2024-06-25_at_1.33.17_pm.jpeg",
-                    alt: "Nile University",
-                    description: "Nile University Campus"
+                    url: "https://lh3.googleusercontent.com/p/AF1QipOBPw95oHrcW5BDX2LbbbxaVoz8kBTw7nfjMZzS=s1360-w1360-h1020-rw",
+                    alt: "Konya Technical University",
+                    description: "Konya Technical University Campus"
                 }
             ]
         }
@@ -93,26 +93,16 @@ export const userConfig = {
     ],
 
     skills: [
-        "C#",
-        "ASP.NET Core",
-        "Entity Framework",
-        "SQL Server",
-        "C++",
         "Python",
-        "Java",
-        "Spring Boot",
-        "Hibernate",
-        "JavaScript",
-        "TypeScript",
-        "React",
-        "Node.js",
-        "MongoDB",
-        "MySQL",
-        "PostgreSQL",
-        "Docker",
-        "MongoDB",
+        "C",
+        "Deep Learning",
+        "Machine Learning",
+        "NLP",
+        "HTML/CSS",
+        "Python",
+        "Java",,
         "SQL Server",
-        "MySQL",
+        "MsSQL",
         "PostgreSQL",
         "Docker",
     ],
