@@ -1,12 +1,7 @@
-import neurospeccompanionmerged from './projects/neurospeccompanionmerged.json';
-import scheds from './projects/scheds.json';
-import fadedTextRestoration from './projects/fadedtextrestoration.json';
-import clinicalmain from './projects/clinicalmain.json';
-import seatReservation from './projects/seatreservation.json';
-import nucpaBalloons from './projects/nucpa-balloons.json';
-import nucpaBalloonsApi from './projects/nucpaballoonsapi.json';
-import portfolio from './projects/portfolio.json';
-import foodies from './projects/foodies.json';
+import twelenium from './projects/twelenium.json';
+import sentimentscope from './projects/sentimentscope.json';
+import fruitripenessdetection from './projects/fruit-ripeness-detection.json';
+import licenseplatedetection from './projects/licenseplatedetection.json';
 export const userConfig = {
     // Personal Information
     name: 'Ayşenur Arslan',
@@ -533,16 +528,11 @@ export const userConfig = {
 
     // Projects Configuration
     projects: [
-        scheds,
-        portfolio,
-        foodies,
-        fadedTextRestoration,
-        nucpaBalloons,
-        nucpaBalloonsApi,
-        neurospeccompanionmerged,
-        clinicalmain,
-        seatReservation,
         
+        twelenium ,
+        sentimentscope,
+        fruitripenessdetection,
+        licenseplatedetection
         // Add more projects here
     ]
 } as const; 

@@ -1,0 +1,59 @@
+{
+  "id": "license-plate-detection",
+  "title": "License Plate Detection - Computer Vision Project",
+  "description": "License Plate Detection is a computer vision project focused on detecting and recognizing license plates in vehicle images. The project includes complete workflow management with dataset splitting, cross-validation, training pipelines, and detection saving functionalities. It demonstrates practical implementation of object detection techniques for automotive applications and traffic monitoring systems.",
+  "repoUrl": "https://github.com/aysenurarslann/license-plate-detection",
+  "techStack": [
+    "Python",
+    "Computer Vision",
+    "OpenCV",
+    "YOLO",
+    "Deep Learning",
+    "Object Detection",
+    "Dataset Management"
+  ],
+  "structure": {
+    "root": "license-plate-detection",
+    "children": [
+      {
+        "name": ".gitattributes",
+        "type": "file"
+      },
+      {
+        "name": ".gitignore",
+        "type": "file"
+      },
+      {
+        "name": "README.md",
+        "type": "file"
+      },
+      {
+        "name": "scripts",
+        "type": "directory",
+        "children": [
+          {
+            "name": "cross_validation.py",
+            "type": "file"
+          },
+          {
+            "name": "denemecv.py",
+            "type": "file"
+          },
+          {
+            "name": "detect_and_save.py",
+            "type": "file"
+          },
+          {
+            "name": "split_dataset.py",
+            "type": "file"
+          },
+          {
+            "name": "train.py",
+            "type": "file"
+          }
+        ]
+      }
+    ]
+  },
+  "images": []
+}

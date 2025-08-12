@@ -1,0 +1,52 @@
+{
+  "id": "fruit-ripeness-detection",
+  "title": "Fruit Ripeness Detection - Hyperspectral Image Processing Project",
+  "description": "Fruit Ripeness Detection is a hyperspectral image processing project that utilizes machine learning algorithms to determine fruit ripeness through spectral analysis. The project implements various classification techniques including AlexNet with Random Forest, Decision Tree with Cars preprocessing, and PCA-based approaches. It includes comprehensive analysis of hyperspectral images for agricultural applications and quality assessment of fruits.",
+  "repoUrl": "https://github.com/aysenurarslann/Fruit-Ripeness-Detection-Project-with-Hyperspectral-Image-Processing",
+  "techStack": [
+    "Python",
+    "Hyperspectral Imaging",
+    "Machine Learning",
+    "Deep Learning",
+    "AlexNet",
+    "Random Forest",
+    "Decision Trees",
+    "PCA",
+    "Image Processing"
+  ],
+  "structure": {
+    "root": "Fruit-Ripeness-Detection-Project-with-Hyperspectral-Image-Processing",
+    "children": [
+      {
+        "name": "README.md",
+        "type": "file"
+      },
+      {
+        "name": "alexNet_randomForest_Carskullanımı.py",
+        "type": "file"
+      },
+      {
+        "name": "alexNet_randomForest_PCAkullanımı.py",
+        "type": "file"
+      },
+      {
+        "name": "cars_spa_karşılaştırma.py",
+        "type": "file"
+      },
+      {
+        "name": "decisionTree_Cars_Oncesi.py",
+        "type": "file"
+      },
+      {
+        "name": "decisionTree_Cars_Sonrası.py",
+        "type": "file"
+      },
+      {
+        "name": "roı_goruntuleri",
+        "type": "directory",
+        "children": []
+      }
+    ]
+  },
+  "images": []
+}
