@@ -1,5 +1,5 @@
 {
-  "id": "license-plate-detection",
+  "id": "licenseplatedetection",
   "title": "License Plate Detection - Computer Vision Project",
   "description": "License Plate Detection is a computer vision project focused on detecting and recognizing license plates in vehicle images. The project includes complete workflow management with dataset splitting, cross-validation, training pipelines, and detection saving functionalities. It demonstrates practical implementation of object detection techniques for automotive applications and traffic monitoring systems.",
   "repoUrl": "https://github.com/aysenurarslann/license-plate-detection",
