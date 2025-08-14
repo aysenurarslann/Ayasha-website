@@ -515,11 +515,11 @@ export const userConfig = {
             description: "Developed a license plate recognition model using YOLOv8 for automated vehicle identification. Conducted object detection and tracking of vehicles in real-time scenarios. Trained deep learning models with specialized datasets and optimized performance for production deployment",
             technologies: [],
             images: [
-                {
+                
                    // url: "https://scontent.fcai19-7.fna.fbcdn.net/v/t39.30808-6/277727078_119097457389244_7717309927402528390_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=rvNpB-9dCAoQ7kNvwHeda0X&_nc_oc=Adk8Qg0h-4iVQGhQc5-3sXR9TAe3QxNy92vyJ3G7dWl2r0Is9MhcHn2t3A7PDOe4Qvk&_nc_zt=23&_nc_ht=scontent.fcai19-7.fna&_nc_gid=oM0aNre6tagZivjrXfzsVA&oh=00_AfHRaHWXsIyHB16sr_Oi3DiU-tA--5cznxWLBv0Cwpg8rg&oe=6806F746",
                    // alt: "Luftborn",
                     // description: "Luftborn Logo"
-                }
+                
             ]
         },
         {
@@ -530,11 +530,11 @@ export const userConfig = {
             description: "Teaching Python programming to students.",
             technologies: ["Python", "Django", "Flask", "REST APIs", "SQL"],
             images: [
-                {
+            
                   //  url: "https://scontent.fcai19-7.fna.fbcdn.net/v/t39.30808-6/472203136_910754741241302_6191814665042927988_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Za97Y-3hoJoQ7kNvwF4tk1J&_nc_oc=AdkqMOqp7uGvmr5oQdXYQGl081OjyX3ZSV0sd8wSjmufGHxR2bTsh0LiY9NMw2vsg38&_nc_zt=23&_nc_ht=scontent.fcai19-7.fna&_nc_gid=GY4OjmS0blsyGjzyS8wFjQ&oh=00_AfENYmSgWzpYXUFe77GQh_u3yM2O6_tMVQR7Rp3mzfbUJw&oe=6806D215",
                   //  alt: "NU Research",
                     // description: "Working on .NET projects during the internship"
-                }
+                
             ]
         },
         {
@@ -545,11 +545,11 @@ export const userConfig = {
             description: "Provided administrative support for the İŞKUR Youth Program, assisting with various tasks and ensuring smooth operations. Supported organizing, classifying, and digitizing university archive documents. Participated as a presenter and team member in the 1st International Student Cultural Festival. Actively involved in planning, team coordination, and crisis management during the event.",
             technologies: ["Microsoft Office Suite", "Document Management", "Event Planning"],
             images: [
-                {
+                
                    // url: "https://top50women.com/wp-content/uploads/2023/08/Nile-university-1.jpg",
                    // alt: "Nile University",
                     // description: "Working on .NET projects during the internship"
-                }
+                
             ]
         },
         {
@@ -560,11 +560,11 @@ export const userConfig = {
             description: "Developed machine learning solutions for time series analysis, behavior modeling, and classification using sensor data. Built feature engineering and data labeling systems to optimize model performance. Applied Random Forest modeling techniques, handled data imbalance issues and implemented cross-validation for robust model evaluation.",
             technologies: ["Python", "Pandas", "NumPy", "Scikit-learn", "Random Forest", "Time Series Analysis", "Feature Engineering", "Cross-validation", "Matplotlib", "Seaborn", "Data Preprocessing", "Class Balancing",],
             images: [
-                {
+                
                    // url: "https://top50women.com/wp-content/uploads/2023/08/Nile-university-1.jpg",
                    // alt: "Nile University",
                     // description: "Working on .NET projects during the internship"
-                }
+                
             ]
         }
     ],
